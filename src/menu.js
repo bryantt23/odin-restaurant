@@ -1,5 +1,5 @@
 function component() {
-  const content = document.querySelector('#content');
+  const content = document.querySelector('.main');
   const h1 = document.createElement('h1');
   h1.textContent = 'Menu';
 

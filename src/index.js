@@ -1,12 +1,8 @@
 import './style.css';
-import home from './paris';
-import contact from './contact';
-import menu from './menu';
+import header from './header';
 
 function initialize() {
-  home();
-  contact();
-  menu();
+  header();
 }
 
 initialize();
