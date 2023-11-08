@@ -1,8 +1,12 @@
 import './style.css';
-import component from './paris';
+import home from './paris';
+import contact from './contact';
+import menu from './menu';
 
 function initialize() {
-  component();
+  home();
+  contact();
+  menu();
 }
 
 initialize();
