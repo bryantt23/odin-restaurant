@@ -1,3 +1,5 @@
+import './style.css';
+
 function component() {
   const content = document.querySelector('#content');
   const h1 = document.createElement('h1');
