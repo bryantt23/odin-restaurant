@@ -1,1 +1,1 @@
-console.log("hiiisi");
+!function(){const e=document.querySelector("#content"),t=document.createElement("h1");t.textContent="Paris food";const n=document.createElement("p");n.textContent="Trey tasty";const c=document.createElement("img");c.src="../src/eiffel.jpg",e.appendChild(t),e.appendChild(n),e.appendChild(c)}();
